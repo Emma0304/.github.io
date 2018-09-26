@@ -24,4 +24,4 @@ Here is my E-mail address and QQ id.
 - QQ:2457513154
 
 ### My Photo
-![My Photo](src="../emma0304.github.io/photo.jpg")
+![My Photo](../emma0304.github.io/photo.jpg)
