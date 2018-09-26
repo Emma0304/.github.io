@@ -7,7 +7,8 @@ You can see my [github](https://github.com/Emma0304) to see my code. And it will
 ### About Me
 
 ```markdown
-I am an undergraduate student in Peking University, and my major now is _Economy_.
+I am an undergraduate student in Peking University, and my major now is Economy.
+```
 
 ### MY GOAL
 
@@ -15,11 +16,11 @@ I am an undergraduate student in Peking University, and my major now is _Economy
 - C++
 - R & STATA
 
+### CONNECTION
 **You can contact me through e-mail or QQ.**
 
 Here is my E-mail address and QQ id.
 - E-mail:xiaxinyi0304@163.com
 - QQ:2457513154
 
-```
 ### ![My Photo](src)
